@@ -22,4 +22,12 @@ h4,
 h5,
 h6 {
     font-family: 'Karma', serif;
+    font-weight: normal;
+}
+
+h1{
+    line-height: 1.5;
+    font-size: 4rem;
+    letter-spacing: -.02rem;
+    text-transform: uppercase;
 }
