@@ -31,3 +31,18 @@ h1{
     letter-spacing: -.02rem;
     text-transform: uppercase;
 }
+
+.hero{
+    height: 300px;
+}
+
+.article__div--width{
+    width: 50%;
+}
+.project-image-container{
+    width: 50%;
+    background-color: wheat;
+}
+.project-image{
+    width: 100%;
+}
