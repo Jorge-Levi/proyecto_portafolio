@@ -54,6 +54,18 @@ h1 {
     color: #004eb4
 }
 
+.portfolio__project{
+    /* border-top: 1rem solid red;
+    border-right: 1rem solid green;
+    border-bottom: 1rem solid pink;
+    border-left: 1rem solid orange; */
+    /* border-color: red;
+    border-width: 1rem;
+    border-style: solid; */
+    border: 0.1rem solid #ccc;
+    border-radius: 1rem;
+}
+
 .article__div--width {
     width: 50%;
 }
