@@ -36,9 +36,17 @@ h1 {
     background-color: #738292;
 }
 
+.logo{
+    margin:0;
+}
+
 .header__container--menu a{
     color: white;
     text-decoration: none;
+}
+
+.header__container--menu ul{
+    margin:0;
 }
 
 .main {
@@ -48,6 +56,11 @@ h1 {
     background-repeat: no-repeat;
     background-position: right;
     background-color: #738292;
+}
+
+.main__h1{
+    margin: 0;
+    color: white;
 }
 
 .main__h1 strong{
@@ -64,6 +77,7 @@ h1 {
     border-style: solid; */
     border: 0.1rem solid #ccc;
     border-radius: 1rem;
+    margin: 1rem;
 }
 
 .article__div--width {
