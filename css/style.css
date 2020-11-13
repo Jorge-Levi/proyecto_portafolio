@@ -67,6 +67,14 @@ h1 {
     color: #004eb4
 }
 
+.portfolio{
+    background-color: #fafafa;
+}
+
+.portfolio h2{
+    margin: 0;
+}
+
 .portfolio__project{
     /* border-top: 1rem solid red;
     border-right: 1rem solid green;
@@ -78,6 +86,9 @@ h1 {
     border: 0.1rem solid #ccc;
     border-radius: 1rem;
     margin: 1rem;
+    margin-bottom: 1.5rem;
+    padding: 2rem;
+    background-color: white;
 }
 
 .article__div--width {
